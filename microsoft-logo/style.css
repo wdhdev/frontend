@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+.logo {
+    width: 350px;
+}
+
+.square.red {
+    background-color: #f25022;
+}
+
+.square.green {
+    background-color: #7fba00;
+}
+
+.square.blue {
+    background-color: #00a4ef;
+}
+
+.square.yellow {
+    background-color: #ffb900;
+}
+
+.square {
+    width: 150px;
+    height: 150px;
+    margin: 0 10px 10px 0;
+    float: left;
+}
