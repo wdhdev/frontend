@@ -2,9 +2,9 @@
 Various HTML and CSS frontend projects.
 
 ## Previews
-- [404 Page](https://github.williamharrison.dev/html-css-js/404-page)
-- [Coming Soon](https://github.williamharrison.dev/html-css-js/coming-soon)
-- [Contact Form](https://github.williamharrison.dev/html-css-js/contact-form)
-- [Google 404](https://github.williamharrison.dev/html-css-js/google-404)
-- [Microsoft Logo](https://github.williamharrison.dev/html-css-js/microsoft-logo)
-- [Text Card](https://github.williamharrison.dev/html-css-js/text-card)
+- [404 Page](https://frontend.wdh.gg/404-page)
+- [Coming Soon](https://frontend.wdh.gg/coming-soon)
+- [Contact Form](https://frontend.wdh.gg/contact-form)
+- [Google 404](https://frontend.wdh.gg/google-404)
+- [Microsoft Logo](https://frontend.wdh.gg/microsoft-logo)
+- [Text Card](https://frontend.wdh.gg/text-card)
