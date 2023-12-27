@@ -1,5 +1,5 @@
-# HTML-CSS-JS
-Various HTML, CSS, JS projects.
+# HTML and CSS
+Various HTML and CSS frontend projects.
 
 ## Previews
 - [404 Page](https://github.williamharrison.dev/html-css-js/404-page)
