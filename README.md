@@ -1,4 +1,4 @@
-# HTML and CSS
+# Frontend Projects
 Various HTML and CSS frontend projects.
 
 ## Previews
