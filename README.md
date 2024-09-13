@@ -2,10 +2,10 @@
 Various HTML and CSS frontend projects.
 
 ## Previews
-- [404 Page](https://williamharrison.dev/frontend/404-page)
-- [Coming Soon](https://williamharrison.dev/frontend/coming-soon)
-- [Contact Form](https://williamharrison.dev/frontend/contact-form)
-- [Following Eyes](https://williamharrison.dev/frontend/following-eyes)
-- [Google 404](https://williamharrison.dev/frontend/google-404)
-- [Microsoft Logo](https://williamharrison.dev/frontend/microsoft-logo)
-- [Text Card](https://williamharrison.dev/frontend/text-card)
+- [404 Page](https://frontend.hrsn.dev/404-page)
+- [Coming Soon](https://frontend.hrsn.dev/coming-soon)
+- [Contact Form](https://frontend.hrsn.dev/contact-form)
+- [Following Eyes](https://frontend.hrsn.dev/following-eyes)
+- [Google 404](https://frontend.hrsn.dev/google-404)
+- [Microsoft Logo](https://frontend.hrsn.dev/microsoft-logo)
+- [Text Card](https://frontend.hrsn.dev/text-card)
