@@ -54,10 +54,8 @@
 
         <script>
             const markdownUrl = "https://raw.githubusercontent.com/wdhdev/frontend/refs/heads/main/README.md";
-
             const container = document.getElementById("content");
 
-            // Fetch the Markdown file
             fetch(markdownUrl)
                 .then(response => {
                     if (!response.ok) {
@@ -66,11 +64,7 @@
                     return response.text();
                 })
                 .then(markdown => {
-                    // Convert Markdown to HTML using Marked.js
-                    const htmlContent = marked.parse(markdown);
-
-                    // Insert the HTML into the container
-                    container.innerHTML = htmlContent;
+                    container.innerHTML = marked.parse(markdown);
                 })
                 .catch(err => {
                     console.error(err);
